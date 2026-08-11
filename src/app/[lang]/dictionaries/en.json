@@ -1,0 +1,428 @@
+{
+  "site": {
+    "name": "LubeMaster",
+    "slogan": "Smart Lubrication, Smarter Future",
+    "description": "Intelligent Lubrication Precision Control System — Revolutionizing Industrial Equipment Lubrication"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "cases": "Case Studies",
+    "about": "About Us",
+    "contact": "Inquire Now"
+  },
+  "hero": {
+    "title1": "Smart Lubrication",
+    "title2": "Precision Control",
+    "subtitle": "World-leading Direct-Drive Multi-Point Smart Lubrication System — 99.5% Reliability, -40°C~70°C Full Temperature Range",
+    "cta1": "Explore Products",
+    "cta2": "Get Solutions"
+  },
+  "tech": {
+    "badge": "Core Technology",
+    "title": "Core Technology",
+    "subtitle": "Three Breakthroughs Redefining Industrial Lubrication",
+    "direct": {
+      "title": "Direct-Drive Multi-Point System",
+      "desc": "Each lubrication point features an independent direct-drive unit, boosting system reliability from ~90% to 99.5% and eliminating the single-point-of-failure structural flaw inherent in traditional series systems.",
+      "stat": "Reliability",
+      "statValue": "99.5%"
+    },
+    "modular": {
+      "title": "Modular Plunger Cartridge",
+      "desc": "4 precision specifications (P01-P04), 0.01~0.06mL/min plug-and-play. Modular replacement in under 5 minutes — no professional technician required.",
+      "stat": "Variants",
+      "statValue": "P01-P04"
+    },
+    "lowtemp": {
+      "title": "Low-Temperature Thawing & Insulation Module",
+      "desc": "Fills the technology gap for sub -20°C industrial lubrication. 12-minute rapid thawing at -40°C, with full -40°C~70°C temperature range reliable operation.",
+      "stat": "Extreme Cold",
+      "statValue": "-40°C"
+    }
+  },
+  "advantages": {
+    "badge": "Why LubeMaster",
+    "title": "Core Advantages",
+    "subtitle": "Industry-Leading Across Six Dimensions",
+    "reliability": "99.5% System Reliability",
+    "pressure": "15MPa Ultra-High Pressure",
+    "mtbf": "MTBF > 50,000 Hours",
+    "temp": "-40°C~70°C Full Range",
+    "response": "<0.5s Anomaly Response",
+    "cost": "1/3~1/2 of Import Cost"
+  },
+  "industries": {
+    "badge": "Industries",
+    "title": "Industry Applications",
+    "subtitle": "Covering Core High-End Manufacturing Sectors",
+    "automotive": "Automotive",
+    "food": "Food Processing",
+    "pharma": "Pharma GMP",
+    "mining": "Mining",
+    "port": "Port Machinery",
+    "electronics": "Electronics"
+  },
+  "cases": {
+    "badge": "Success Stories",
+    "title": "Benchmark Cases",
+    "subtitle": "Trusted by Industry Leaders",
+    "viewAll": "View All Cases",
+    "case1": {
+      "title": "Top Automotive OEM",
+      "value": "¥8M Contract",
+      "result": "Failure Rate -40%, Lube Consumption -35%",
+      "metrics": ["Failure Rate -40%", "Lube Consumption -35%", "ROI <2 Years"]
+    },
+    "case2": {
+      "title": "Food Processing Leader",
+      "value": "¥6M Contract",
+      "result": "Pass Rate 97.2%→99.5%",
+      "metrics": ["Efficiency +25%", "Pass Rate 97.2→99.5%", "HACCP Certified"]
+    },
+    "case3": {
+      "title": "Pharma GMP Compliance",
+      "value": "FDA Zero Defects",
+      "result": "OEE 72%→88%, Deviation Events -60%",
+      "metrics": ["OEE 72%→88%", "Deviations -60%", "FDA Zero Observations"]
+    }
+  },
+  "cta": {
+    "title": "Ready to Upgrade Your Lubrication System?",
+    "subtitle": "Contact us today for a tailored smart lubrication solution",
+    "button": "Get Free Consultation"
+  },
+  "footer": {
+    "company": "© 2026 LubeMaster. All rights reserved.",
+    "address": "No. 289 West 3rd Ring Rd, Bldg 7, Fl 2, Unit 5, High-Tech Zone, Zhengzhou, Henan, China",
+    "contact": "3496622752@qq.com",
+    "description": "World-leading provider of intelligent industrial lubrication systems",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "colProducts": "Products",
+    "colSolutions": "Solutions",
+    "colAbout": "About"
+  },
+  "products": {
+    "title": "Products",
+    "badge": "Products & Platform",
+    "subtitle": "From Smart Hardware to Cloud Platform — Complete Smart Lubrication Solutions",
+    "cta": "Request a Quote",
+    "categories": {
+      "hardware": "Hardware Products",
+      "software": "Software Platform",
+      "service": "Technical Services"
+    },
+    "list": [
+      {
+        "name": "DDS-800 Direct-Drive Multi-Point System",
+        "nameEn": "Direct-Drive Multi-Point System",
+        "desc": "Fully parallel direct-drive architecture with independent control per lubrication point. 99.5% reliability, 15MPa ultra-high pressure, DC24V safe power supply.",
+        "specs": ["Reliability: 99.5%", "Max Pressure: 15MPa", "Power: DC24V", "Nodes: Up to 32", "Response: <0.5s", "Communication: CAN Bus"]
+      },
+      {
+        "name": "MJS06 Smart Flow Sensor",
+        "nameEn": "Smart Flow Sensor",
+        "desc": "High-precision flow detection with 1-second sampling intervals. Real-time monitoring of oil supply status at every lubrication point with automatic anomaly alerts.",
+        "specs": ["Accuracy: ±1%", "Sampling: 1Hz", "Response: <0.5s detection", "Communication: CAN Bus", "Protection: IP67", "Lifetime: >50,000h"]
+      },
+      {
+        "name": "MJV06 Vibration Monitoring Module",
+        "nameEn": "Vibration Monitoring Module",
+        "desc": "Tri-axial vibration sensor with PT100 temperature probe. Multi-dimensional real-time data acquisition for early fault warning.",
+        "specs": ["Vibration: 3-axis ±16g", "Temperature: PT100 ±0.1°C", "Sampling: 1-1000Hz configurable", "Communication: CAN/RS485", "Protection: IP67", "MTBF: >50,000h"]
+      },
+      {
+        "name": "LTM-01 Low-Temp Thawing & Insulation Module",
+        "nameEn": "Low-Temp Thawing & Insulation Module",
+        "desc": "Silicone heating pads with multi-layer insulation. 12-minute rapid thawing at -40°C, filling the gap in extreme-cold lubrication technology.",
+        "specs": ["Temperature: -40°C~70°C", "Thaw Time: ≤12min (-40°C)", "Heating: 30-60W", "Precision: ±0.1°C", "Insulation: 20mm+10mm", "Safety: 80°C limit"]
+      },
+      {
+        "name": "ARM Cortex-M4 Smart Controller",
+        "nameEn": "ARM Cortex-M4 Smart Controller",
+        "desc": "32-node CAN bus networking with multi-sensor data fusion. Automatic anomaly diagnosis with precise localization and adaptive lubrication strategy.",
+        "specs": ["Processor: ARM Cortex-M4", "Nodes: Up to 32", "Communication: CAN/RS485/Ethernet", "Storage: 512KB Flash", "Algorithm: Adaptive PID+Feedforward", "Protection: IP65"]
+      },
+      {
+        "name": "Modular Plunger Cartridge P01-P04",
+        "nameEn": "Modular Plunger Cartridge P01-P04",
+        "desc": "4 precision specifications from 0.01~0.06mL/min, plug-and-play. Quick replacement in under 5 minutes without professional technicians.",
+        "specs": ["P01: 0.01mL/min Ultra-Micro", "P02: 0.02mL/min Micro-Flow", "P03: 0.04mL/min Medium", "P04: 0.06mL/min High-Flow", "Replacement: <5min", "Lifetime: >20,000h"]
+      }
+    ],
+    "software": [
+      {
+        "name": "LubeCloud Platform",
+        "nameEn": "LubeCloud Platform",
+        "desc": "Device management, real-time monitoring, data analytics, and predictive maintenance SaaS platform with multi-tenant architecture.",
+        "features": ["Real-time device monitoring dashboard", "Historical data trend analysis", "Predictive maintenance AI algorithms", "Multi-tenant permission management", "Open API interface", "Mobile app support"]
+      },
+      {
+        "name": "LubeAnalytics Engine",
+        "nameEn": "LubeAnalytics Engine",
+        "desc": "Machine learning-based equipment health assessment, remaining useful life prediction, anomaly pattern recognition, and root cause analysis.",
+        "features": ["Equipment health scoring model", "RUL prediction (>90% accuracy)", "Automatic anomaly pattern recognition", "Root cause analysis engine", "Automated report generation", "Third-party data integration"]
+      }
+    ],
+    "services": [
+      {"name": "System Integration & Deployment", "desc": "End-to-end service from solution design to on-site installation and commissioning"},
+      {"name": "Custom Development", "desc": "Tailored control algorithms and reporting systems for specific industry requirements"},
+      {"name": "Predictive Maintenance SaaS", "desc": "Monthly/annual subscription including data analytics and expert diagnostics"},
+      {"name": "Technical Training & Certification", "desc": "Operator training and maintenance engineer certification programs"},
+      {"name": "Rapid Spare Parts Response", "desc": "48-hour nationwide spare parts delivery, 8-hour emergency response"},
+      {"name": "System Upgrade & Retrofit", "desc": "Smart upgrade solutions for traditional lubrication systems"}
+    ]
+  },
+  "solutions": {
+    "title": "Industry Solutions",
+    "badge": "Industry Solutions",
+    "subtitle": "Deep Industry Expertise with Tailored Smart Lubrication Solutions",
+    "painTitle": "Customer Pain Points",
+    "solutionTitle": "Our Solution",
+    "detailLink": "Get Detailed Solution",
+    "ctaTitle": "Not Sure Which Solution Fits?",
+    "ctaDesc": "Our engineers will tailor a smart lubrication solution based on your industry and specific requirements",
+    "ctaButton": "Schedule Expert Consultation",
+    "list": [
+      {
+        "name": "Automotive Manufacturing",
+        "nameEn": "Automotive Manufacturing",
+        "desc": "High-reliability smart lubrication for stamping, welding, painting, and final assembly — all four major process workshops.",
+        "pains": ["Downtime losses >¥2M per incident", "Insufficient reliability in traditional systems causing quality fluctuations", "Multi-model production lines require flexible lubrication parameter adjustment"],
+        "fixes": ["DDS-800 fully parallel architecture: zero impact from single-point failure", "Adaptive lubrication algorithm: matches varying operating conditions", "Predictive maintenance: 40%+ reduction in equipment failure rate"],
+        "results": [{"label": "Failure Rate", "value": "-40%"}, {"label": "Lube Consumption", "value": "-35%"}, {"label": "ROI", "value": "<2 Years"}]
+      },
+      {
+        "name": "Food Processing",
+        "nameEn": "Food Processing",
+        "desc": "Precision control of food-grade lubrication meeting HACCP/ISO22000 food safety system requirements.",
+        "pains": ["Difficulty in precisely controlling food-grade lubricant dosage", "Traditional systems unable to meet cleanroom requirements", "Product pass rate fluctuations impacting brand reputation"],
+        "fixes": ["Micron-level precision metering: eliminates over-lubrication contamination", "Fully sealed IP67 design: cleanroom-compatible", "Real-time traceability: complete data logging per lubrication point"],
+        "results": [{"label": "Pass Rate", "value": "99.5%"}, {"label": "Efficiency Gain", "value": "+25%"}, {"label": "Audit", "value": "HACCP Pass"}]
+      },
+      {
+        "name": "Pharma GMP Compliance",
+        "nameEn": "Pharma GMP Compliance",
+        "desc": "Full FDA/EMA GMP compliance with complete CSV (Computerized System Validation) documentation.",
+        "pains": ["Heavy GMP compliance audit burden with extensive documentation requirements", "Low equipment OEE (72% industry average)", "Frequent deviation events impacting product quality stability"],
+        "fixes": ["Complete 3Q validation (IQ/OQ/PQ) documentation package", "Electronic signatures + audit trail: 21 CFR Part 11 compliant", "Process Analytical Technology (PAT): real-time quality monitoring"],
+        "results": [{"label": "OEE", "value": "72→88%"}, {"label": "Deviations", "value": "-60%"}, {"label": "FDA Audit", "value": "Zero 483s"}]
+      },
+      {
+        "name": "Mining Machinery",
+        "nameEn": "Mining Machinery",
+        "desc": "Reliable lubrication solutions for extreme operating conditions — high dust, strong vibration, and 24/7 continuous operation.",
+        "pains": ["Dust concentration >50mg/m³ causing clogging in traditional systems", "Dispersed equipment with inefficient and high-risk manual inspection", "Traditional grease freezing at -20°C winter temperatures in mining areas"],
+        "fixes": ["Military-grade protection: IP67 with triple-seal design", "Low-temp thawing module: reliable operation at -40°C extreme cold", "Remote monitoring: 87% reduction in hazardous-area manual inspections"],
+        "results": [{"label": "System Uptime", "value": "Zero Failures"}, {"label": "Manual Inspection", "value": "-87%"}, {"label": "Grease Consumption", "value": "-72%"}]
+      },
+      {
+        "name": "Port Machinery",
+        "nameEn": "Port Machinery",
+        "desc": "All-weather smart lubrication for quay cranes, yard cranes, stacker-reclaimers and other large-scale port equipment.",
+        "pains": ["Severe salt-spray corrosion on outdoor equipment", "Numerous and widely dispersed lubrication points (>200 per machine)", "Unplanned downtime impacting terminal operational efficiency"],
+        "fixes": ["Corrosion-resistant: 316L stainless steel + Teflon coating", "32-node CAN networking: covers ultra-large equipment", "Wireless transmission: 4G/5G remote data upload to cloud"],
+        "results": [{"label": "Maintenance Hours", "value": "-65%"}, {"label": "Equipment Availability", "value": ">99%"}, {"label": "Bearing Life", "value": "+50%"}]
+      },
+      {
+        "name": "Electronics Manufacturing",
+        "nameEn": "Electronics Manufacturing",
+        "desc": "Micron-level precision lubrication control for SMT pick-and-place machines and semiconductor equipment.",
+        "pains": ["Micron-level precision requirements beyond traditional lubrication capabilities", "Cleanroom environment extremely sensitive to lubricant volatiles", "Equipment miniaturization demands ultra-compact lubrication systems"],
+        "fixes": ["P01 ultra-micro flow: 0.01mL/min precision delivery", "Low-volatility design: meets Class 100 cleanroom standards", "Micro-integration: 1/5 the volume of traditional systems"],
+        "results": [{"label": "Positioning Accuracy", "value": "±1μm"}, {"label": "Cleanroom Class", "value": "Class 100"}, {"label": "Yield Rate", "value": "+3.5%"}]
+      }
+    ]
+  },
+  "casesPage": {
+    "badge": "Proven Results",
+    "title": "Case Studies",
+    "subtitle": "Trusted by Industry Leaders Worldwide",
+    "ctaTitle": "Become Our Next Success Story",
+    "ctaDesc": "Join industry leaders and experience the efficiency revolution of smart lubrication",
+    "ctaButton": "Contact Us Today",
+    "list": [
+      {
+        "title": "Top Automotive OEM — ¥8M Contract",
+        "titleEn": "Top Automotive OEM — ¥8M Contract",
+        "num": "Case Study 01",
+        "clientLabel": "Client Background",
+        "client": "A global TOP 5 automotive manufacturer (annual output >1 million vehicles), with factories across 12 countries on 4 continents.",
+        "challengeLabel": "Core Challenge",
+        "challenge": "Over 500 critical lubrication points across stamping, welding, painting and assembly workshops. The traditional series lubrication system frequently experienced single-point failures causing full production line shutdowns, with average annual unplanned downtime of 120 hours and production losses exceeding ¥2M.",
+        "solutionLabel": "Solution",
+        "solution": [
+          "Deployed DDS-800 direct-drive multi-point system with independent control for all 500+ lubrication points",
+          "MJS06 smart flow sensors + MJV06 vibration monitoring modules for real-time multi-dimensional data acquisition",
+          "LubeCloud platform integrated with client MES system for synchronized production-lubrication scheduling",
+          "3-person on-site technical support team with 24/7 response"
+        ],
+        "results": [
+          {"label": "Failure Rate", "value": "-40%"},
+          {"label": "Lube Consumption", "value": "-35%"},
+          {"label": "Unplanned Downtime", "value": "120h→30h"},
+          {"label": "ROI Period", "value": "<2 Years"},
+          {"label": "Client Satisfaction", "value": "9.2/10"},
+          {"label": "Expansion", "value": "1→3 Lines"}
+        ],
+        "quote": "We used to have emergency line shutdowns every month due to lubrication failures. Now it's been half a year with zero faults. We finally don't have to worry about lubrication anymore.",
+        "quoteBy": "— Director of Manufacturing Engineering"
+      },
+      {
+        "title": "Food Processing Leader — ¥6M Contract",
+        "titleEn": "Food Processing Leader — ¥6M Contract",
+        "num": "Case Study 02",
+        "clientLabel": "Client Background",
+        "client": "A nationally recognized agricultural industrialization leader with annual revenue exceeding ¥5 billion, exporting products to over 30 countries and regions.",
+        "challengeLabel": "Core Challenge",
+        "challenge": "HACCP/ISO22000 food safety system demands extremely strict lubrication control. Traditional lubrication methods could not precisely meter food-grade lubricant, creating contamination risks from over-lubrication and resulting in a product pass rate of only 97.2%.",
+        "solutionLabel": "Solution",
+        "solution": [
+          "Full production line digital lubrication retrofit covering filling, sealing, and packaging critical stations",
+          "P02 micro-flow metering cartridge delivering 0.02mL/min precision lubrication, eliminating over-lubrication",
+          "Fully sealed IP67 design meeting cleanroom hygiene requirements",
+          "Complete data logging per lubrication point enabling full-chain traceability from raw materials to finished products"
+        ],
+        "results": [
+          {"label": "Product Pass Rate", "value": "97.2→99.5%"},
+          {"label": "Production Efficiency", "value": "+25%"},
+          {"label": "Annual Quality Loss", "value": "-¥1.5M"},
+          {"label": "HACCP Audit", "value": "Grade A Pass"},
+          {"label": "Client Feedback", "value": "Major Upgrade"},
+          {"label": "Annual Benefit", "value": "~¥12M"}
+        ],
+        "quote": "Our quality control team used to spend every day spot-checking lubrication points. Now the system handles it automatically, and we can breathe easy. Quality management has taken a major leap forward.",
+        "quoteBy": "— Director of Quality Management"
+      },
+      {
+        "title": "Pharma GMP Compliance — FDA Zero Defects",
+        "titleEn": "Pharma GMP Compliance — FDA Zero Defects",
+        "num": "Case Study 03",
+        "clientLabel": "Client Background",
+        "client": "A leading pharmaceutical enterprise with global product distribution, subject to regular FDA/EMA on-site inspections.",
+        "challengeLabel": "Core Challenge",
+        "challenge": "Strict GMP compliance requirements (21 CFR Part 11). Equipment OEE at only 72% — below industry average. Frequent lubrication-related deviation events triggering CAPA processes, consuming significant manpower annually for audit documentation.",
+        "solutionLabel": "Solution",
+        "solution": [
+          "Complete GMP compliance package: IQ/OQ/PQ validation documentation + electronic signatures + audit trails",
+          "High-precision temperature control (±0.1°C) with real-time environmental monitoring",
+          "CSV (Computerized System Validation) fully compliant with FDA 21 CFR Part 11",
+          "LubeAnalytics data engine for automated compliance report generation"
+        ],
+        "results": [
+          {"label": "OEE Improvement", "value": "72%→88%"},
+          {"label": "Deviation Events", "value": "-60%"},
+          {"label": "FDA Inspection", "value": "Zero 483s"},
+          {"label": "Compliance Cost", "value": "-40%"},
+          {"label": "Audit Prep Time", "value": "70% Faster"},
+          {"label": "Annual Savings", "value": "~¥1M"}
+        ],
+        "quote": "With complete electronic signatures and audit trails, we now handle every FDA inspection with confidence. The compliance burden has been dramatically reduced.",
+        "quoteBy": "— Head of Quality & Compliance"
+      }
+    ]
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "About LubeMaster",
+    "subtitle": "A China University of Geosciences Innovation Project, Committed to the Smart Revolution of Industrial Lubrication",
+    "ipTitle": "Intellectual Property Portfolio",
+    "ipSummary": [
+      {"value": "5", "label": "Invention Patents"},
+      {"value": "3", "label": "Utility Models"},
+      {"value": "3", "label": "Software Copyrights"}
+    ],
+    "patents": [
+      {"name": "Multi-Point Parallel Direct-Drive Control System", "type": "Invention Patent", "status": "Granted"},
+      {"name": "Adaptive Lubrication Algorithm & Edge Computing Architecture", "type": "Invention Patent", "status": "Granted"},
+      {"name": "Digital Twin Modeling Method for Industrial Lubrication Systems", "type": "Invention Patent", "status": "Granted"},
+      {"name": "Multi-Sensor Fusion Lubrication Fault Prediction Method", "type": "Invention Patent", "status": "Under Review"},
+      {"name": "ML-Based Lubrication Parameter Self-Optimization Method", "type": "Invention Patent", "status": "Under Review"},
+      {"name": "Modular Plunger Cartridge Structural Design", "type": "Utility Model", "status": "Granted"},
+      {"name": "Low-Temperature Lubrication System Thawing Device", "type": "Utility Model", "status": "Granted"},
+      {"name": "Smart Lubrication Controller Hardware Design", "type": "Utility Model", "status": "Granted"},
+      {"name": "Lubrication System Control Software V2.0", "type": "Software Copyright", "status": "Registered"},
+      {"name": "LubeCloud Cloud Platform System", "type": "Software Copyright", "status": "Registered"},
+      {"name": "Data Analytics Engine Software", "type": "Software Copyright", "status": "Registered"}
+    ],
+    "teamTitle": "Core Team",
+    "teamMembers": [
+      {"name": "Prof. Zhang", "role": "Chief Scientist", "dept": "China Univ. of Geosciences · Mechanical Engineering", "bio": "Doctoral supervisor. Led 2 NSFC key projects and 1 National 863 Program sub-project. Published 200+ SCI/EI papers."},
+      {"name": "Dr. Li", "role": "CTO / Algorithm Lead", "dept": "Control Algorithms · Machine Learning", "bio": "10 years of industrial automation algorithm experience. Leading adaptive lubrication algorithm and predictive maintenance model development."},
+      {"name": "Mr. Wang", "role": "Hardware Chief Engineer", "dept": "Embedded Systems · ARM/CAN", "bio": "15 years of embedded system design experience. Leading DDS-800 controller and sensor hardware development."},
+      {"name": "Dr. Chen", "role": "Mechanical Chief Engineer", "dept": "Precision Mechanics · Fluid Dynamics", "bio": "10 years of precision mechanical design experience. Leading modular plunger cartridge and low-temp thawing module design."},
+      {"name": "Ms. Zhao", "role": "COO / Marketing Lead", "dept": "B2B Industrial Marketing", "bio": "8 years of industrial product marketing experience. Leading market expansion and customer success system development."}
+    ],
+    "teamStats": [
+      {"value": "5", "label": "R&D Engineers"},
+      {"value": "3", "label": "Product Engineers"},
+      {"value": "2+1", "label": "Business + PM"},
+      {"value": "10+", "label": "Patents Accumulated"}
+    ],
+    "milestonesTitle": "Development Milestones",
+    "milestones": [
+      {"year": "2021", "title": "Project Launch", "desc": "Technology research and feasibility validation. First invention patent application filed."},
+      {"year": "2022", "title": "Breakthrough", "desc": "Multi-sensor fusion algorithm breakthrough. Prototype system V1.0 validated in laboratory."},
+      {"year": "2023", "title": "First Client", "desc": "Signed ¥8M contract with top automotive OEM. Entered industrialization phase."},
+      {"year": "2024", "title": "Product Iteration", "desc": "Completed 2,000-hour accelerated life test. MTBF surpassed 50,000 hours."},
+      {"year": "2025", "title": "Industry Expansion", "desc": "Expanded into food, pharma, mining, and port sectors. Cumulative contracts exceeded ¥20M."},
+      {"year": "2026", "title": "Scaled Growth", "desc": "Completed ¥50M Series A funding. Small-batch trial production of 50 units. Team expanded to 15."}
+    ],
+    "ctaTitle": "Join Our Innovation Journey",
+    "ctaDesc": "Follow LubeMaster and help drive the smart revolution in industrial lubrication",
+    "ctaButton": "Contact Us"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "badge": "Get In Touch",
+    "subtitle": "Get Your Custom Solution & Quote",
+    "infoTitle": "Contact Information",
+    "infoItems": [
+      {"label": "Address", "value": "No. 289 West 3rd Ring Rd\nBldg 7, Fl 2, Unit 5\nHigh-Tech Zone, Zhengzhou\nHenan, China"},
+      {"label": "Email", "value": "3496622752@qq.com"},
+      {"label": "Phone", "value": "+86-10-XXXX-XXXX"},
+      {"label": "Website", "value": "www.lubemaster.cn"},
+      {"label": "Business Hours", "value": "Monday – Friday, 9:00 AM – 6:00 PM (CST)"}
+    ],
+    "whyTitle": "Why Choose LubeMaster?",
+    "whyItems": [
+      "99.5% system reliability — industry's highest standard",
+      "Full temperature range (-40°C~70°C) reliable operation",
+      "Proven across 3 major industry benchmark cases",
+      "5 invention patents + 3 utility model patents",
+      "Cost is only 1/3~1/2 of imported brands",
+      "48-hour nationwide service response"
+    ],
+    "formTitle": "Submit an Inquiry / Request a Quote",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "company": "Company",
+      "companyPlaceholder": "Your company name",
+      "email": "Email",
+      "emailPlaceholder": "email@company.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+1-XXX-XXX-XXXX",
+      "industry": "Industry",
+      "industryPlaceholder": "Select your industry",
+      "industryOptions": {
+        "auto": "Automotive Manufacturing",
+        "food": "Food Processing",
+        "pharma": "Pharma GMP",
+        "mining": "Mining Machinery",
+        "port": "Port Machinery",
+        "electronics": "Electronics Manufacturing",
+        "other": "Other Industry"
+      },
+      "message": "Requirements",
+      "messagePlaceholder": "Please describe your requirements including: equipment type, number of lubrication points, operating conditions, budget range, etc.",
+      "submit": "Submit Inquiry",
+      "submitting": "Submitting...",
+      "note": "Our technical team will contact you within 24 hours"
+    },
+    "successMessage": "Submitted successfully!",
+    "errorMessage": "Submission failed, please try again"
+  }
+}

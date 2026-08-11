@@ -1,0 +1,428 @@
+{
+  "site": {
+    "name": "润滑精控",
+    "slogan": "智润未来",
+    "description": "智能润滑精密控制系统 — 工业设备润滑的智能革命"
+  },
+  "nav": {
+    "home": "首页",
+    "products": "产品中心",
+    "solutions": "解决方案",
+    "cases": "客户案例",
+    "about": "关于我们",
+    "contact": "联系询价"
+  },
+  "hero": {
+    "title1": "智能润滑",
+    "title2": "精密控制",
+    "subtitle": "全球领先的直驱多点智能润滑系统 — 99.5%系统可靠性，-40°C~70°C全温域覆盖",
+    "cta1": "探索产品",
+    "cta2": "获取方案"
+  },
+  "tech": {
+    "badge": "核心技术",
+    "title": "核心技术",
+    "subtitle": "三大技术突破，重新定义工业润滑",
+    "direct": {
+      "title": "直驱多点供油系统",
+      "desc": "每个润滑点配备独立直驱单元，系统可靠性从传统~90%跃升至99.5%，彻底消除串联式「单点故障全局失效」的结构性缺陷。",
+      "stat": "可靠性",
+      "statValue": "99.5%"
+    },
+    "modular": {
+      "title": "模块化柱塞计量组件",
+      "desc": "4种精密规格(P01-P04)，0.01~0.06mL/min即插即用。<5分钟完成更换，无需专业人员。",
+      "stat": "规格",
+      "statValue": "P01-P04"
+    },
+    "lowtemp": {
+      "title": "低温解冻与保温模块",
+      "desc": "填补-20°C以下工业润滑系统技术空白。-40°C环境下12分钟快速解冻，全温域(-40°C~70°C)可靠运行。",
+      "stat": "极寒可靠",
+      "statValue": "-40°C"
+    }
+  },
+  "advantages": {
+    "badge": "为什么选择润滑精控",
+    "title": "核心优势",
+    "subtitle": "六大维度全面领先",
+    "reliability": "99.5%系统可靠性",
+    "pressure": "15MPa超高压力",
+    "mtbf": "MTBF > 50,000h",
+    "temp": "-40°C~70°C全温域",
+    "response": "<0.5s异常响应",
+    "cost": "成本为进口1/3~1/2"
+  },
+  "industries": {
+    "badge": "行业应用",
+    "title": "行业应用",
+    "subtitle": "覆盖高端制造核心领域",
+    "automotive": "汽车制造",
+    "food": "食品加工",
+    "pharma": "制药GMP",
+    "mining": "矿山机械",
+    "port": "港口机械",
+    "electronics": "电子制造"
+  },
+  "cases": {
+    "badge": "成功案例",
+    "title": "标杆案例",
+    "subtitle": "行业龙头的共同选择",
+    "viewAll": "查看全部案例",
+    "case1": {
+      "title": "汽车制造龙头企业",
+      "value": "¥800万",
+      "result": "设备故障率-40%，润滑消耗-35%",
+      "metrics": ["设备故障率 -40%", "润滑消耗 -35%", "投资回收 <2年"]
+    },
+    "case2": {
+      "title": "食品加工龙头企业",
+      "value": "¥600万",
+      "result": "产品合格率97.2%→99.5%",
+      "metrics": ["生产效率 +25%", "合格率 97.2→99.5%", "HACCP一级通过"]
+    },
+    "case3": {
+      "title": "知名药企GMP合规",
+      "value": "FDA零缺陷",
+      "result": "OEE 72%→88%，偏差事件-60%",
+      "metrics": ["OEE 72%→88%", "偏差事件 -60%", "FDA零缺陷通过"]
+    }
+  },
+  "cta": {
+    "title": "准备好升级您的润滑系统？",
+    "subtitle": "立即联系我们，获取专属智能润滑解决方案",
+    "button": "免费获取方案"
+  },
+  "footer": {
+    "company": "© 2026 润滑精控. All rights reserved.",
+    "address": "河南省郑州市高新技术产业开发区西三环路289号7幢2层5号",
+    "contact": "3496622752@qq.com",
+    "description": "全球领先的工业智能润滑系统提供商",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "colProducts": "产品",
+    "colSolutions": "解决方案",
+    "colAbout": "关于"
+  },
+  "products": {
+    "title": "产品中心",
+    "badge": "产品与平台",
+    "subtitle": "从智能硬件到云平台，一站式智能润滑解决方案",
+    "cta": "立即获取报价",
+    "categories": {
+      "hardware": "硬件产品",
+      "software": "软件平台",
+      "service": "技术服务"
+    },
+    "list": [
+      {
+        "name": "DDS-800 直驱多点供油系统",
+        "nameEn": "Direct-Drive Multi-Point System",
+        "desc": "全并联直驱架构，每润滑点独立控制。99.5%系统可靠性，15MPa超高压力，DC24V安全供电。",
+        "specs": ["系统可靠性: 99.5%", "最大压力: 15MPa", "供电: DC24V", "节点数: 最多32个", "响应时间: <0.5s", "通信: CAN总线"]
+      },
+      {
+        "name": "MJS06 智能流量传感器",
+        "nameEn": "Smart Flow Sensor",
+        "desc": "高精度流量检测，每1秒一次采样，实时监测每个润滑点的供油状态，异常自动报警。",
+        "specs": ["检测精度: ±1%", "采样频率: 1Hz", "响应: <0.5s异常检测", "通信: CAN总线", "防护等级: IP67", "寿命: >50,000h"]
+      },
+      {
+        "name": "MJV06 振动监测模块",
+        "nameEn": "Vibration Monitoring Module",
+        "desc": "三轴振动传感器+PT100温度探头，多维数据实时采集，支持早期故障预警。",
+        "specs": ["振动: 三轴±16g", "温度: PT100 ±0.1°C", "采样: 可配置1-1000Hz", "通信: CAN/RS485", "防护等级: IP67", "MTBF: >50,000h"]
+      },
+      {
+        "name": "LTM-01 低温解冻保温模块",
+        "nameEn": "Low-Temp Thawing Module",
+        "desc": "硅胶加热片+多层保温结构，-40°C环境下12分钟快速解冻，填补极寒润滑技术空白。",
+        "specs": ["工作温度: -40°C~70°C", "解冻时间: ≤12min(-40°C)", "加热功率: 30-60W", "控温精度: ±0.1°C", "保温层: 20mm+10mm", "安全认证: 80°C限温"]
+      },
+      {
+        "name": "ARM Cortex-M4 智能控制器",
+        "nameEn": "ARM Cortex-M4 Smart Controller",
+        "desc": "32节点CAN总线组网，多传感器数据融合，异常自动诊断与精确定位，自适应供脂策略。",
+        "specs": ["处理器: ARM Cortex-M4", "节点数: 最多32个", "通信: CAN/RS485/Ethernet", "存储: 512KB Flash", "算法: 自适应PID+前馈", "防护等级: IP65"]
+      },
+      {
+        "name": "模块化柱塞计量组件 P01-P04",
+        "nameEn": "Modular Plunger Cartridge P01-P04",
+        "desc": "4种精密规格，0.01~0.06mL/min即插即用。<5分钟快速更换，无需专业人员。",
+        "specs": ["P01: 0.01mL/min 超微", "P02: 0.02mL/min 微流量", "P03: 0.04mL/min 中等", "P04: 0.06mL/min 大流量", "更换时间: <5min", "寿命: >20,000h"]
+      }
+    ],
+    "software": [
+      {
+        "name": "润滑云平台 LubeCloud",
+        "nameEn": "LubeCloud Platform",
+        "desc": "设备管理、实时监控、数据分析、预测维护SaaS平台，支持多租户架构。",
+        "features": ["实时设备监控仪表盘", "历史数据趋势分析", "预测性维护AI算法", "多租户权限管理", "API开放接口", "移动端APP支持"]
+      },
+      {
+        "name": "数据分析引擎 LubeAnalytics",
+        "nameEn": "LubeAnalytics Engine",
+        "desc": "基于机器学习的设备健康评估、剩余寿命预测、异常模式识别与根因分析。",
+        "features": ["设备健康评分模型", "剩余寿命预测(>90%)", "异常模式自动识别", "根因分析引擎", "自动报告生成", "第三方数据集成"]
+      }
+    ],
+    "services": [
+      {"name": "系统集成部署", "desc": "从方案设计到现场安装调试的全流程服务"},
+      {"name": "定制化开发", "desc": "根据行业特点定制控制算法与报表系统"},
+      {"name": "预测维护SaaS", "desc": "按月/年订阅，含数据分析和专家诊断"},
+      {"name": "技术培训认证", "desc": "提供操作培训和维护工程师认证"},
+      {"name": "备件快速响应", "desc": "全国48小时备件送达，紧急8小时响应"},
+      {"name": "系统升级改造", "desc": "传统润滑系统的智能化升级方案"}
+    ]
+  },
+  "solutions": {
+    "title": "行业解决方案",
+    "badge": "行业方案",
+    "subtitle": "深入行业场景，提供定制化智能润滑方案",
+    "painTitle": "客户痛点",
+    "solutionTitle": "我们的方案",
+    "detailLink": "获取详细方案",
+    "ctaTitle": "不确定哪个方案适合您？",
+    "ctaDesc": "我们的工程师将根据您的行业和需求，量身定制智能润滑方案",
+    "ctaButton": "预约专家咨询",
+    "list": [
+      {
+        "name": "汽车制造",
+        "nameEn": "Automotive Manufacturing",
+        "desc": "为冲压、焊装、涂装、总装四大工艺车间提供高可靠智能润滑方案。",
+        "pains": ["设备停机损失>200万元/次", "传统系统可靠性不足导致品控波动", "多车型共线生产需灵活调整润滑参数"],
+        "fixes": ["DDS-800全并联架构: 单点故障零影响", "自适应供脂算法: 匹配不同工况需求", "预测维护: 设备故障率降低40%+"],
+        "results": [{"label": "故障率", "value": "-40%"}, {"label": "润滑消耗", "value": "-35%"}, {"label": "投资回收", "value": "<2年"}]
+      },
+      {
+        "name": "食品加工",
+        "nameEn": "Food Processing",
+        "desc": "满足HACCP/ISO22000食品安全体系要求，食品级润滑的精密控制。",
+        "pains": ["食品级润滑剂用量难以精确控制", "传统系统无法满足洁净车间要求", "产品合格率波动影响品牌声誉"],
+        "fixes": ["微米级精密计量: 杜绝过量润滑污染", "全密封设计: IP67防护，洁净车间适配", "实时追溯: 每点润滑数据完整记录"],
+        "results": [{"label": "合格率", "value": "99.5%"}, {"label": "效率提升", "value": "+25%"}, {"label": "审核通过", "value": "HACCP"}]
+      },
+      {
+        "name": "制药GMP",
+        "nameEn": "Pharma GMP Compliance",
+        "desc": "满足FDA/EMA GMP合规要求，提供完整的CSV计算机化系统验证文档。",
+        "pains": ["GMP合规审计压力大，文档工作繁重", "设备OEE普遍偏低(72%行业均值)", "偏差事件频发影响产品质量稳定性"],
+        "fixes": ["完整3Q验证(IQ/OQ/PQ)文档包", "电子签名+审计追踪: 21 CFR Part 11合规", "过程分析技术(PAT): 实时质量监控"],
+        "results": [{"label": "OEE提升", "value": "72→88%"}, {"label": "偏差事件", "value": "-60%"}, {"label": "FDA审计", "value": "零缺陷"}]
+      },
+      {
+        "name": "矿山机械",
+        "nameEn": "Mining Machinery",
+        "desc": "极端工况(高粉尘/强振动/24h连续作业)下的可靠润滑解决方案。",
+        "pains": ["粉尘浓度>50mg/m³,传统系统易堵塞", "设备分散,人工巡检效率低风险高", "矿区-20°C冬季传统油脂冻结"],
+        "fixes": ["军工级防护: IP67+三重密封设计", "低温解冻模块: -40°C极寒可靠运行", "远程监控: 减少危险区域人工巡检87%"],
+        "results": [{"label": "系统运行", "value": "0故障"}, {"label": "人工巡检", "value": "-87%"}, {"label": "油脂消耗", "value": "-72%"}]
+      },
+      {
+        "name": "港口机械",
+        "nameEn": "Port Machinery",
+        "desc": "为岸桥、场桥、堆取料机等大型港口装备提供全天候智能润滑。",
+        "pains": ["设备露天运行,盐雾腐蚀严重", "润滑点多且分散(>200点/台)", "非计划停机影响码头作业效率"],
+        "fixes": ["耐腐蚀: 316L不锈钢+特氟龙涂层", "32节点CAN组网: 覆盖超大型设备", "无线传输: 4G/5G远程数据上云"],
+        "results": [{"label": "维保工时", "value": "-65%"}, {"label": "设备可用率", "value": ">99%"}, {"label": "轴承寿命", "value": "+50%"}]
+      },
+      {
+        "name": "电子制造",
+        "nameEn": "Electronics Manufacturing",
+        "desc": "为SMT贴片机、半导体设备提供微米级精密润滑控制。",
+        "pains": ["微米级精度要求,传统润滑无法满足", "洁净室环境对润滑剂挥发量极度敏感", "设备小型化,润滑系统需极度紧凑"],
+        "fixes": ["P01超微流量: 0.01mL/min精准供给", "低挥发性设计: 满足Class 100洁净室", "微型化集成: 体积仅为传统1/5"],
+        "results": [{"label": "定位精度", "value": "±1μm"}, {"label": "洁净等级", "value": "Class 100"}, {"label": "设备良率", "value": "+3.5%"}]
+      }
+    ]
+  },
+  "casesPage": {
+    "badge": "实践验证",
+    "title": "标杆案例",
+    "subtitle": "行业龙头的共同选择",
+    "ctaTitle": "成为下一个标杆案例",
+    "ctaDesc": "携手行业龙头，共享智能润滑带来的效率革命",
+    "ctaButton": "立即咨询",
+    "list": [
+      {
+        "title": "汽车制造龙头企业 — ¥800万合同",
+        "titleEn": "Top Automotive OEM — ¥8M Contract",
+        "num": "案例研究 01",
+        "clientLabel": "客户背景",
+        "client": "某全球TOP5汽车制造商（年产量>100万辆），全球工厂覆盖4大洲12个国家。",
+        "challengeLabel": "核心挑战",
+        "challenge": "冲压/焊装/涂装/总装四大车间合计超过500个关键润滑点。传统串联式润滑系统频繁出现单点故障导致整线停机，年均非计划停机120小时，损失产值超200万元。",
+        "solutionLabel": "解决方案",
+        "solution": [
+          "部署DDS-800直驱多点供油系统，500+润滑点全部独立控制",
+          "MJS06智能流量传感器+MJV06振动监测模块，实时采集多维数据",
+          "LubeCloud云平台对接客户MES系统，实现生产-润滑协同调度",
+          "驻场技术团队3人，24小时响应"
+        ],
+        "results": [
+          {"label": "设备故障率", "value": "-40%"},
+          {"label": "润滑消耗量", "value": "-35%"},
+          {"label": "非计划停机", "value": "120h→30h"},
+          {"label": "投资回收期", "value": "<2年"},
+          {"label": "客户满意度", "value": "9.2/10"},
+          {"label": "扩展计划", "value": "1→3条产线"}
+        ],
+        "quote": "以前每月润滑故障都要停线抢修，现在半年了零故障。润滑这事儿终于不用操心了。",
+        "quoteBy": "— 制造工程部部长"
+      },
+      {
+        "title": "食品加工龙头企业 — ¥600万合同",
+        "titleEn": "Food Processing Leader — ¥6M Contract",
+        "num": "案例研究 02",
+        "clientLabel": "客户背景",
+        "client": "国家级农业产业化重点龙头企业，年营收超50亿元，产品出口30+国家和地区。",
+        "challengeLabel": "核心挑战",
+        "challenge": "HACCP/ISO22000食品安全体系对润滑控制要求极其严格。传统润滑方式无法精确计量，存在食品级润滑剂过量使用导致污染风险，产品合格率仅97.2%。",
+        "solutionLabel": "解决方案",
+        "solution": [
+          "全生产线数字化润滑改造，覆盖灌装/封口/包装关键工位",
+          "P02微流量计量组件，0.02mL/min精准供脂，杜绝过量污染",
+          "全密封IP67设计，满足洁净车间卫生要求",
+          "每点润滑数据完整记录，实现从原料到成品的全链路追溯"
+        ],
+        "results": [
+          {"label": "产品合格率", "value": "97.2→99.5%"},
+          {"label": "生产效率", "value": "+25%"},
+          {"label": "年质量损失", "value": "-150万元"},
+          {"label": "HACCP审核", "value": "一级通过"},
+          {"label": "客户评价", "value": "质量上台阶"},
+          {"label": "年效益提升", "value": "~1,200万"}
+        ],
+        "quote": "以前品控部门天天盯着润滑点抽查，现在系统自动管控，我们也省心了。质量管理上了一个大台阶。",
+        "quoteBy": "— 质量管理部总监"
+      },
+      {
+        "title": "知名药企GMP合规 — FDA零缺陷",
+        "titleEn": "Pharma GMP Compliance — FDA Zero Defects",
+        "num": "案例研究 03",
+        "clientLabel": "客户背景",
+        "client": "知名制药企业，产品销往全球，定期接受FDA/EMA现场检查。",
+        "challengeLabel": "核心挑战",
+        "challenge": "严格的GMP合规要求（21 CFR Part 11），设备OEE仅72%低于行业平均，润滑相关偏差事件频繁触发CAPA流程，每年耗费大量人力应对审计文档工作。",
+        "solutionLabel": "解决方案",
+        "solution": [
+          "GMP合规全套方案：IQ/OQ/PQ验证文档 + 电子签名 + 审计追踪",
+          "高精度温度控制（±0.1°C）+ 实时环境监测",
+          "CSV计算机化系统验证，满足FDA 21 CFR Part 11",
+          "LubeAnalytics数据分析引擎，自动生成合规报告"
+        ],
+        "results": [
+          {"label": "OEE提升", "value": "72%→88%"},
+          {"label": "偏差事件", "value": "-60%"},
+          {"label": "FDA审计", "value": "零缺陷(483)"},
+          {"label": "合规成本", "value": "-40%"},
+          {"label": "审计准备时间", "value": "缩短70%"},
+          {"label": "年节省成本", "value": "~100万"}
+        ],
+        "quote": "有了完整的电子签名和审计追踪，每次FDA检查我们都能从容应对。合规压力大大减轻了。",
+        "quoteBy": "— 质量合规部负责人"
+      }
+    ]
+  },
+  "about": {
+    "badge": "关于我们",
+    "title": "关于润滑精控",
+    "subtitle": "中国地质大学创新孵化项目，致力于工业润滑的智能化革命",
+    "ipTitle": "知识产权体系",
+    "ipSummary": [
+      {"value": "5项", "label": "发明专利"},
+      {"value": "3项", "label": "实用新型"},
+      {"value": "3项", "label": "软件著作权"}
+    ],
+    "patents": [
+      {"name": "多润滑点并联直驱控制系统", "type": "发明专利", "status": "已授权"},
+      {"name": "自适应供脂算法与边缘计算架构", "type": "发明专利", "status": "已授权"},
+      {"name": "工业润滑系统数字孪生建模方法", "type": "发明专利", "status": "已授权"},
+      {"name": "多传感器融合的润滑故障预测方法", "type": "发明专利", "status": "实审中"},
+      {"name": "基于ML的润滑参数自优化方法", "type": "发明专利", "status": "实审中"},
+      {"name": "模块化柱塞计量组件结构设计", "type": "实用新型", "status": "已授权"},
+      {"name": "低温环境润滑系统解冻装置", "type": "实用新型", "status": "已授权"},
+      {"name": "智能润滑控制器硬件设计", "type": "实用新型", "status": "已授权"},
+      {"name": "润滑系统控制软件V2.0", "type": "软件著作权", "status": "已登记"},
+      {"name": "LubeCloud云平台系统", "type": "软件著作权", "status": "已登记"},
+      {"name": "数据分析引擎软件", "type": "软件著作权", "status": "已登记"}
+    ],
+    "teamTitle": "核心团队",
+    "teamMembers": [
+      {"name": "张教授", "role": "首席科学家", "dept": "中国地质大学 · 机械工程", "bio": "博士生导师，主持国家自然科学基金重点项目2项、863计划子课题1项，发表SCI/EI论文200+篇。"},
+      {"name": "李博士", "role": "CTO / 算法负责人", "dept": "控制算法 · 机器学习", "bio": "10年工业自动化算法经验，主导自适应供脂算法与预测维护模型开发。"},
+      {"name": "王工", "role": "硬件总工程师", "dept": "嵌入式系统 · ARM/CAN", "bio": "15年嵌入式系统设计经验，主导DDS-800控制器与传感器硬件开发。"},
+      {"name": "陈博", "role": "机械总工程师", "dept": "精密机械 · 流体力学", "bio": "10年精密机械设计经验，主导模块化柱塞计量组件与低温解冻模块机械设计。"},
+      {"name": "赵经理", "role": "COO / 市场负责人", "dept": "B2B工业品营销", "bio": "8年工业品营销经验，负责市场拓展与客户成功体系建设。"}
+    ],
+    "teamStats": [
+      {"value": "5", "label": "研发工程师"},
+      {"value": "3", "label": "产品工程师"},
+      {"value": "2+1", "label": "商业+PM"},
+      {"value": "10+", "label": "发明专利积累"}
+    ],
+    "milestonesTitle": "发展里程碑",
+    "milestones": [
+      {"year": "2021", "title": "项目启动", "desc": "技术调研与可行性验证，提交首件发明专利申请"},
+      {"year": "2022", "title": "原理突破", "desc": "多传感器融合算法突破，完成原型系统V1.0实验室验证"},
+      {"year": "2023", "title": "首个客户", "desc": "签下汽车制造龙头企业800万合同，进入产业化阶段"},
+      {"year": "2024", "title": "产品迭代", "desc": "完成2000h加速寿命测试，MTBF突破50,000小时"},
+      {"year": "2025", "title": "行业拓展", "desc": "拓展食品/制药/矿山/港口4大行业，累计合同额突破2000万"},
+      {"year": "2026", "title": "规模增长", "desc": "完成A轮融资5000万，小批量试产50套，团队扩至15人"}
+    ],
+    "ctaTitle": "加入我们的创新旅程",
+    "ctaDesc": "关注润滑精控，共同推动工业润滑的智能化革命",
+    "ctaButton": "联系我们"
+  },
+  "contact": {
+    "title": "联系我们",
+    "badge": "取得联系",
+    "subtitle": "获取专属方案与报价",
+    "infoTitle": "联系方式",
+    "infoItems": [
+      {"label": "地址", "value": "河南省郑州市高新技术产业开发区\n西三环路289号7幢2层5号"},
+      {"label": "邮箱", "value": "3496622752@qq.com"},
+      {"label": "电话", "value": "+86-10-XXXX-XXXX"},
+      {"label": "官网", "value": "www.lubemaster.cn"},
+      {"label": "工作时间", "value": "周一至周五 9:00-18:00"}
+    ],
+    "whyTitle": "为什么选择润滑精控？",
+    "whyItems": [
+      "99.5% 系统可靠性，行业最高标准",
+      "全温域(-40°C~70°C)可靠运行",
+      "3大行业标杆案例验证",
+      "5项发明专利 + 3项实用新型",
+      "成本仅为进口品牌1/3~1/2",
+      "48小时全国服务响应"
+    ],
+    "formTitle": "提交询价 / 获取方案",
+    "form": {
+      "name": "姓名",
+      "namePlaceholder": "您的姓名",
+      "company": "公司名称",
+      "companyPlaceholder": "公司名称",
+      "email": "邮箱",
+      "emailPlaceholder": "email@company.com",
+      "phone": "电话",
+      "phonePlaceholder": "+86-XXX-XXXX-XXXX",
+      "industry": "所属行业",
+      "industryPlaceholder": "请选择行业",
+      "industryOptions": {
+        "auto": "汽车制造",
+        "food": "食品加工",
+        "pharma": "制药GMP",
+        "mining": "矿山机械",
+        "port": "港口机械",
+        "electronics": "电子制造",
+        "other": "其他行业"
+      },
+      "message": "需求描述",
+      "messagePlaceholder": "请描述您的需求，包括：设备类型、润滑点数、工况条件、预算范围等...",
+      "submit": "提交询价",
+      "submitting": "提交中...",
+      "note": "提交后我们的技术团队将在24小时内与您联系"
+    },
+    "successMessage": "提交成功！",
+    "errorMessage": "提交失败，请稍后再试"
+  }
+}
