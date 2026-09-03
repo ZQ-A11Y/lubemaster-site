@@ -5,6 +5,7 @@ import { ShieldCheck, FileText, Award, Users, Lightbulb, ArrowRight, CheckCircle
 import { SectionTitle } from "@/components/ui/section-title";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { SITE_URL } from "@/lib/site";
 import Link from "next/link";
 
 export async function generateMetadata({ params }: PageProps<"/[lang]/about">): Promise<Metadata> {
@@ -13,7 +14,7 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/about">): 
   return {
     title: t.about.title,
     description: t.about.subtitle,
-    alternates: { canonical: `/${lang}/about` },
+    alternates: { canonical: `${SITE_URL}/${lang}/about` },
   };
 }
 

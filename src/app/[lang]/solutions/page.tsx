@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { Factory, UtensilsCrossed, Pill, Hammer, Anchor, CircuitBoard, Check, ArrowRight, Settings2, ShieldCheck, Zap } from "lucide-react";
 import { SectionTitle } from "@/components/ui/section-title";
 import { Button } from "@/components/ui/button";
+import { SITE_URL } from "@/lib/site";
 import Link from "next/link";
 
 const SOLUTION_ICONS = [Factory, UtensilsCrossed, Pill, Hammer, Anchor, CircuitBoard];
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/solutions"
   return {
     title: t.solutions.title,
     description: t.solutions.subtitle,
-    alternates: { canonical: `/${lang}/solutions` },
+    alternates: { canonical: `${SITE_URL}/${lang}/solutions` },
   };
 }
 

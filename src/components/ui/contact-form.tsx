@@ -5,7 +5,7 @@ import { Send, CheckCircle2, AlertCircle, Loader2 } from "lucide-react";
 import { Button } from "./button";
 
 const WEB3FORMS_URL = "https://api.web3forms.com/submit";
-const ACCESS_KEY = "d2102ea0-7a54-4ac2-933e-8c0731554e4f";
+const ACCESS_KEY = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? "";
 
 interface ContactFormProps {
   t: {
@@ -49,6 +49,12 @@ export function ContactForm({ t }: ContactFormProps) {
     e.preventDefault();
     setStatus("loading");
     setErrorMsg("");
+
+    if (!ACCESS_KEY) {
+      setErrorMsg(t.errorMessage);
+      setStatus("error");
+      return;
+    }
 
     try {
       const res = await fetch(WEB3FORMS_URL, {
@@ -194,7 +200,7 @@ export function ContactForm({ t }: ContactFormProps) {
         >
           {status === "loading" ? (
             <>
-              <Loader2 className="w-5 h-5 animate-spin" /> {t.form.submitting || t.form.submit + "..."}
+              <Loader2 className="w-5 h-5 animate-spin" /> {t.form.submitting}
             </>
           ) : (
             <>

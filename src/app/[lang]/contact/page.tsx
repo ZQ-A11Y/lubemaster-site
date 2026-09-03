@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { Mail, MapPin, Phone, Globe, Clock, CheckCircle2 } from "lucide-react";
 import { SectionTitle } from "@/components/ui/section-title";
 import { ContactForm } from "@/components/ui/contact-form";
+import { SITE_URL } from "@/lib/site";
 
 const INFO_ICONS = [MapPin, Mail, Phone, Globe, Clock];
 
@@ -13,7 +14,7 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/contact">)
   return {
     title: t.contact.title,
     description: t.contact.subtitle,
-    alternates: { canonical: `/${lang}/contact` },
+    alternates: { canonical: `${SITE_URL}/${lang}/contact` },
   };
 }
 

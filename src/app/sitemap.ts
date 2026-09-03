@@ -1,6 +1,5 @@
 import type { MetadataRoute } from "next";
-
-const BASE_URL = "https://www.lubemaster.cn";
+import { SITE_URL } from "@/lib/site";
 
 const pages = [
   { path: "", priority: 1.0 },
@@ -17,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const lang of ["zh", "en"]) {
     for (const page of pages) {
       entries.push({
-        url: `${BASE_URL}/${lang}${page.path}`,
+        url: `${SITE_URL}/${lang}${page.path}`,
         lastModified: new Date(),
         changeFrequency: "monthly" as const,
         priority: page.priority,

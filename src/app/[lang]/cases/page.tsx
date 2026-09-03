@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { ArrowRight, CheckCircle2, Quote, Factory, UtensilsCrossed, Pill } from "lucide-react";
 import { SectionTitle } from "@/components/ui/section-title";
 import { Button } from "@/components/ui/button";
+import { SITE_URL } from "@/lib/site";
 import Link from "next/link";
 
 const CASE_ICONS = [Factory, UtensilsCrossed, Pill];
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/cases">): 
   return {
     title: t.casesPage.title,
     description: t.casesPage.subtitle,
-    alternates: { canonical: `/${lang}/cases` },
+    alternates: { canonical: `${SITE_URL}/${lang}/cases` },
   };
 }
 

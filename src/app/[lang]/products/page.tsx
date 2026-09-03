@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { Cog, Cloud, Wrench, ArrowRight, Check, ShieldCheck, Gauge, Vibrate, ThermometerSnowflake, Cpu, Syringe } from "lucide-react";
 import { SectionTitle } from "@/components/ui/section-title";
 import { Button } from "@/components/ui/button";
+import { SITE_URL } from "@/lib/site";
 import Link from "next/link";
 
 const ICONS = [Cog, Gauge, Vibrate, ThermometerSnowflake, Cpu, Syringe];
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: PageProps<"/[lang]/products">
   return {
     title: t.products.title,
     description: t.products.subtitle,
-    alternates: { canonical: `/${lang}/products` },
+    alternates: { canonical: `${SITE_URL}/${lang}/products` },
   };
 }
 

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -33,7 +34,7 @@ export const metadata: Metadata = {
     title: "润滑精控 LubeMaster — 智能润滑精密控制系统",
     description:
       "全球领先的直驱多点智能润滑系统，99.5%系统可靠性，-40°C~70°C全温域覆盖。",
-    url: "https://www.lubemaster.cn",
+    url: SITE_URL,
     siteName: "LubeMaster 润滑精控",
     locale: "zh_CN",
     type: "website",
@@ -53,10 +54,10 @@ export const metadata: Metadata = {
     shortcut: "/favicon.svg",
   },
   alternates: {
-    canonical: "https://www.lubemaster.cn",
+    canonical: SITE_URL,
     languages: {
-      zh: "https://www.lubemaster.cn/zh",
-      en: "https://www.lubemaster.cn/en",
+      zh: `${SITE_URL}/zh`,
+      en: `${SITE_URL}/en`,
     },
   },
   verification: {

@@ -424,5 +424,59 @@
     },
     "successMessage": "Submitted successfully!",
     "errorMessage": "Submission failed, please try again"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: January 2026",
+      "sections": [
+        {
+          "heading": "1. Information Collection",
+          "body": "We collect information you provide when filling out contact forms, including your name, company, email address, phone number, and industry details. This information is used solely for responding to your inquiries and providing relevant product information."
+        },
+        {
+          "heading": "2. Data Usage",
+          "body": "Your data is used exclusively for business communication purposes. We do not sell, rent, or share your personal information with third parties for marketing purposes. Data may be shared with authorized distributors when necessary to fulfill your specific inquiry."
+        },
+        {
+          "heading": "3. Data Storage & Security",
+          "body": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. Data is stored on secure servers with encryption at rest and in transit."
+        },
+        {
+          "heading": "4. Cookies",
+          "body": "This site uses essential cookies for session management and locale preferences. We do not use tracking cookies or third-party analytics services. You may disable cookies in your browser settings, though this may affect site functionality."
+        },
+        {
+          "heading": "5. Your Rights",
+          "body": "You have the right to access, correct, or request deletion of your personal data. To exercise these rights or ask questions about our privacy practices, please contact us through the contact information on our Contact page."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: January 2026",
+      "sections": [
+        {
+          "heading": "1. Website Use",
+          "body": "By accessing this website, you agree to these terms of service. The content on this website is for general informational purposes only and is subject to change without notice. We reserve the right to modify or discontinue any aspect of the website at our sole discretion."
+        },
+        {
+          "heading": "2. Intellectual Property",
+          "body": "All content on this website, including text, graphics, logos, images, and software, is the property of LubeMaster or its content suppliers and is protected by applicable intellectual property laws. The LubeMaster name and logo are registered trademarks."
+        },
+        {
+          "heading": "3. Product Information",
+          "body": "Product specifications, pricing, and availability are subject to change without notice. Technical data provided on this website is for reference only. Contact our sales team for the most current product information and to discuss your specific requirements."
+        },
+        {
+          "heading": "4. Limitation of Liability",
+          "body": "LubeMaster shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of or inability to use this website or its content. This includes, but is not limited to, damages for loss of profits, data, or business interruption."
+        },
+        {
+          "heading": "5. Governing Law",
+          "body": "These terms shall be governed by and construed in accordance with the laws of the People's Republic of China. Any disputes arising from these terms shall be subject to the jurisdiction of the courts in Beijing, China."
+        }
+      ]
+    }
   }
 }
