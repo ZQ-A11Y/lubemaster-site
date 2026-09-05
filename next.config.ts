@@ -9,6 +9,8 @@ const nextConfig: NextConfig = isGitHubPages
       basePath: "/lubemaster-site",
       trailingSlash: true,
       images: { unoptimized: true },
+      // 供页面代码在构建时内联 basePath（如根路径 meta refresh 跳转目标）
+      env: { NEXT_PUBLIC_BASE_PATH: "/lubemaster-site" },
     }
   : {};
 
