@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:I[97367,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+6:X
+15:X
+15:C
+0:{"buildId":"TAv6mhL1t7Q96DN9Kzdqe","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pt-24 pb-16","children":["$","section",null,{"className":"py-16","children":["$","div",null,{"className":"max-w-3xl mx-auto px-4 sm:px-6 lg:px-8","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-extrabold text-[var(--foreground)] mb-8","children":"Terms of Service"}],["$","div",null,{"className":"prose prose-lg max-w-none text-[var(--muted)] space-y-6","children":[["$","p",null,{"children":"Last updated: January 2026"}],[["$","div","0",{"children":[["$","h2",null,{"className":"text-xl font-bold text-[var(--foreground)] mt-8 mb-4","children":"1. Website Use"}],["$","p",null,{"children":"By accessing this website, you agree to these terms of service. The content on this website is for general informational purposes only and is subject to change without notice. We reserve the right to modify or discontinue any aspect of the website at our sole discretion."}]]}],["$","div","1",{"children":[["$","h2",null,{"className":"text-xl font-bold text-[var(--foreground)] mt-8 mb-4","children":"2. Intellectual Property"}],["$","p",null,{"children":"All content on this website, including text, graphics, logos, images, and software, is the property of LubeMaster or its content suppliers and is protected by applicable intellectual property laws. The LubeMaster name and logo are registered trademarks."}]]}],["$","div","2",{"children":[["$","h2",null,{"className":"text-xl font-bold text-[var(--foreground)] mt-8 mb-4","children":"3. Product Information"}],["$","p",null,{"children":"Product specifications, pricing, and availability are subject to change without notice. Technical data provided on this website is for reference only. Contact our sales team for the most current product information and to discuss your specific requirements."}]]}],["$","div","3",{"children":[["$","h2",null,{"className":"text-xl font-bold text-[var(--foreground)] mt-8 mb-4","children":"4. Limitation of Liability"}],["$","p",null,{"children":"LubeMaster shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of or inability to use this website or its content. This includes, but is not limited to, damages for loss of profits, data, or business interruption."}]]}],["$","div","4",{"children":[["$","h2",null,{"className":"text-xl font-bold text-[var(--foreground)] mt-8 mb-4","children":"5. Governing Law"}],["$","p",null,{"children":"These terms shall be governed by and construed in accordance with the laws of the People's Republic of China. Any disputes arising from these terms shall be subject to the jurisdiction of the courts in Beijing, China."}]]}]]]}]]}]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"润滑精控 LubeMaster — 智能润滑精密控制系统"}],["$","meta","1",{"name":"description","content":"全球领先的直驱多点智能润滑系统，99.5%系统可靠性，-40°C~70°C全温域覆盖，为高端制造业提供智能化润滑解决方案。"}],["$","meta","2",{"name":"keywords","content":"智能润滑,精密控制,工业润滑,润滑系统,LubeMaster,润滑精控"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.lubemaster.cn/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh","href":"https://www.lubemaster.cn/zh/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://www.lubemaster.cn/en/"}],["$","meta","7",{"property":"og:title","content":"润滑精控 LubeMaster — 智能润滑精密控制系统"}],["$","meta","8",{"property":"og:description","content":"全球领先的直驱多点智能润滑系统，99.5%系统可靠性，-40°C~70°C全温域覆盖。"}],["$","meta","9",{"property":"og:url","content":"https://www.lubemaster.cn/"}],["$","meta","10",{"property":"og:site_name","content":"LubeMaster 润滑精控"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10"]}]}]}],"$L11"]}],"isPartial":"$@12","staleTime":"$6","varyParams":null},{"rsc":"$L13","isPartial":"$@14","staleTime":"$6","varyParams":"$15"}],"isUpgradeableISRFallback":false,"a":"$@16","rootVaryParams":null,"needsRuntimeRequest":"$@17"}
+18:I[27201,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+19:I[39756,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+1a:I[37457,["/lubemaster-site/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:null
+9:["$","meta","11",{"property":"og:locale","content":"zh_CN"}]
+a:["$","meta","12",{"property":"og:type","content":"website"}]
+b:["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}]
+c:["$","meta","14",{"name":"twitter:title","content":"润滑精控 LubeMaster — 智能润滑精密控制系统"}]
+d:["$","meta","15",{"name":"twitter:description","content":"全球领先的直驱多点智能润滑系统，99.5%系统可靠性。"}]
+e:["$","link","16",{"rel":"shortcut icon","href":"/favicon.svg"}]
+f:["$","link","17",{"rel":"icon","href":"/favicon.svg"}]
+10:["$","$L18","18",{}]
+11:["$","meta",null,{"name":"next-size-adjust","content":""}]
+13:["$","$1","c",{"children":[null,["$","$L19",null,{"parallelRouterKey":"children","template":["$","$L1a",null,{}]}]]}]
+17:true
+6:300
+6:C
+16:0
+12:"$undefined"
+14:"$undefined"
+5:"$undefined"
