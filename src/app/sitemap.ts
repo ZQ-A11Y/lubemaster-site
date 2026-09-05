@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/site";
 
+export const dynamic = "force-static";
+
 const pages = [
   { path: "", priority: 1.0 },
   { path: "/products", priority: 0.9 },
